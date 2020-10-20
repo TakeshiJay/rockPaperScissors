@@ -1,9 +1,3 @@
- /* 
-       Created By: Jacob Sunia
- Time : 13:03    Date     : Tuesday July 28, 2020
- Class: CS-21    Professor: Kimberly Davis
- CLNo.: 50963    Project  : RockPaperScissors
- */
 import java.util.*;
 import java.io.*;
 
